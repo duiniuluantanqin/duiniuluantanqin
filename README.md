@@ -22,7 +22,7 @@
 
 ## 参与贡献的开源项目
 
-[SRS](https://github.com/ossrs/srs) · [SRS-SIP](https://github.com/ossrs/srs-sip) · [ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit) · [pymkui](https://github.com/ZLMediaKit/pymkui) · [Monibuca GB28181 插件](https://github.com/Monibuca/plugin-gb28181) · [LiveKit](https://github.com/livekit/livekit) · [mpegts.js](https://github.com/xqq/mpegts.js) · [sipgo](https://github.com/emiago/sipgo) · [SRS 文档](https://github.com/ossrs/srs-docs)
+**[SRS](https://github.com/ossrs/srs)** · **[SRS-SIP](https://github.com/ossrs/srs-sip)** · [ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit) · [pymkui](https://github.com/ZLMediaKit/pymkui) · [Monibuca GB28181 插件](https://github.com/Monibuca/plugin-gb28181) · [LiveKit](https://github.com/livekit/livekit) · [mpegts.js](https://github.com/xqq/mpegts.js) · [sipgo](https://github.com/emiago/sipgo) · [SRS 文档](https://github.com/ossrs/srs-docs)
 
 ## 精选项目
 
