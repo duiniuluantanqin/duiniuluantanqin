@@ -6,7 +6,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-duiniuluantanqin-181717?style=flat-square&logo=github)](https://github.com/duiniuluantanqin)
 [![Website](https://img.shields.io/badge/Website-MediaInsight360-0A84FF?style=flat-square&logo=safari&logoColor=white)](https://www.mediainsight360.com/)
-[![Location](https://img.shields.io/badge/Location-Chengdu%2C%20China-2ea44d?style=flat-square&logo=googlemaps&logoColor=white)](https://www.google.com/maps/search/?api=1&query=Chengdu%2C%20China)
+[![Location](https://img.shields.io/badge/Location-Chengdu%2C%20China-2ea44f?style=flat-square&logo=googlemaps&logoColor=white)](https://www.google.com/maps/search/?api=1&query=Chengdu%2C%20China)
 
 </div>
 
