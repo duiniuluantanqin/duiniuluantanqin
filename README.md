@@ -40,7 +40,25 @@
 
 ## 技术分享
 
-
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.mediainsight360.com/LiveVideoStack-%E8%9C%80%E4%B8%BB%E9%A3%8E%E6%B5%81.jpg"><img src="https://www.mediainsight360.com/LiveVideoStack-%E8%9C%80%E4%B8%BB%E9%A3%8E%E6%B5%81.jpg" alt="LiveVideoStack 蜀主风流" width="180" /></a><br />
+      <b>LiveVideoStack</b><br />
+      <a href="https://www.mediainsight360.com/LiveVideoStack-%E8%9C%80%E4%B8%BB%E9%A3%8E%E6%B5%81.jpg">查看大图</a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.mediainsight360.com/%E6%9C%A8%E5%85%B0%E7%A4%BE%E5%8C%BA.jpg"><img src="https://www.mediainsight360.com/%E6%9C%A8%E5%85%B0%E7%A4%BE%E5%8C%BA.jpg" alt="木兰开源社区" width="180" /></a><br />
+      <b>木兰开源社区</b><br />
+      <a href="https://www.mediainsight360.com/%E6%9C%A8%E5%85%B0%E7%A4%BE%E5%8C%BA.jpg">查看大图</a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.bilibili.com/video/BV11S4y197Zx/"><img src="./assets/technical-sharing-srs-video.svg" alt="SRS在安防中的应用视频封面" width="180" /></a><br />
+      <b>SRS在安防中的应用</b><br />
+      <a href="https://www.bilibili.com/video/BV11S4y197Zx/">前往观看</a>
+    </td>
+  </tr>
+</table>
 
 ## GitHub 概览
 

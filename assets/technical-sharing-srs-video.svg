@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="720" viewBox="0 0 540 720" role="img" aria-labelledby="title desc">
+  <title id="title">SRS在安防中的应用</title>
+  <desc id="desc">视频分享封面，点击观看 Bilibili 视频</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05090d" />
+      <stop offset="0.55" stop-color="#0a1719" />
+      <stop offset="1" stop-color="#123d3b" />
+    </linearGradient>
+    <radialGradient id="glow" cx="82%" cy="72%" r="60%">
+      <stop offset="0" stop-color="#28b9a2" stop-opacity="0.48" />
+      <stop offset="1" stop-color="#28b9a2" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <rect width="540" height="720" rx="24" fill="url(#bg)" />
+  <rect width="540" height="720" rx="24" fill="url(#glow)" />
+  <path d="M0 525 C120 470 208 565 320 510 S470 470 540 430 V720 H0Z" fill="#071012" fill-opacity="0.62" />
+  <rect x="34" y="34" width="472" height="652" rx="18" fill="none" stroke="#ffffff" stroke-opacity="0.16" />
+  <text x="58" y="105" fill="#77e0d0" font-family="Arial, sans-serif" font-size="20" letter-spacing="3">TECH SHARING</text>
+  <text x="58" y="172" fill="#ffffff" font-family="sans-serif" font-size="36" font-weight="700">SRS 安防应用</text>
+  <text x="58" y="211" fill="#b7c8c8" font-family="sans-serif" font-size="20">实时音视频 · 视频分享</text>
+  <circle cx="270" cy="414" r="64" fill="#ffffff" fill-opacity="0.16" stroke="#ffffff" stroke-opacity="0.7" stroke-width="2" />
+  <path d="M256 380 L256 448 L312 414Z" fill="#ffffff" />
+  <rect x="58" y="602" width="132" height="42" rx="21" fill="#ffffff" fill-opacity="0.12" />
+  <text x="124" y="629" fill="#ffffff" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">▶ BILIBILI</text>
+</svg>
