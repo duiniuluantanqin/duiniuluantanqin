@@ -20,9 +20,9 @@
 - 🧩 开源爱好者，积极参与贡献过多个音视频领域的项目
 - 🌐 个人项目：[MediaInsight](https://www.mediainsight360.com/) · [last30days](https://duiniuluantanqin.github.io/last30days/)
 
-## 关注领域
+## 参与贡献的开源项目
 
-`Live Streaming` · `WebRTC` · `RTMP` · `RTSP` · `HLS` · `SRT` · `GB28181` · `C/C++` · `TypeScript`
+[SRS](https://github.com/ossrs/srs) · [SRS-SIP](https://github.com/ossrs/srs-sip) · [ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit) · [pymkui](https://github.com/ZLMediaKit/pymkui) · [Monibuca GB28181 插件](https://github.com/Monibuca/plugin-gb28181) · [LiveKit](https://github.com/livekit/livekit) · [mpegts.js](https://github.com/xqq/mpegts.js) · [sipgo](https://github.com/emiago/sipgo) · [SRS 文档](https://github.com/ossrs/srs-docs)
 
 ## 精选项目
 
@@ -34,9 +34,6 @@
 | [mosp.js](https://github.com/duiniuluantanqin/mosp.js) | 面向 H.264/H.265 视频流的带内元数据协议实现 |
 | [last30days](https://duiniuluantanqin.github.io/last30days/) | 论坛主帖采集与静态阅读网站 |
 
-## 参与贡献的开源项目
-
-[SRS](https://github.com/ossrs/srs) · [SRS-SIP](https://github.com/ossrs/srs-sip) · [ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit) · [pymkui](https://github.com/ZLMediaKit/pymkui) · [Monibuca GB28181 插件](https://github.com/Monibuca/plugin-gb28181) · [LiveKit](https://github.com/livekit/livekit) · [mpegts.js](https://github.com/xqq/mpegts.js) · [sipgo](https://github.com/emiago/sipgo) · [SRS 文档](https://github.com/ossrs/srs-docs)
 
 ## 技术分享
 
