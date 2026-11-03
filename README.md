@@ -15,10 +15,10 @@
 
 ## 关于我
 
-- 🎥 长期关注直播、实时音视频与流媒体基础设施
-- 🛠️ **SRS Maintainer**，参与开源流媒体项目建设与维护
-- 🧩 关注协议、媒体处理和开发者工具，让复杂的音视频能力更易用
-- 🌐 更多内容：[MediaInsight360](https://www.mediainsight360.com/)
+- 🎥 长期关注安防、直播、实时音视频与流媒体基础设施
+- 🛠️ **SRS Maintainer**，**SRS-SIP Owner**，参与开源流媒体项目建设与维护
+- 🧩 开源爱好者，积极参与贡献过多个音视频领域的项目
+- 🌐 个人项目：[MediaInsight](https://www.mediainsight360.com/) · [last30days](https://duiniuluantanqin.github.io/last30days/)
 
 ## 关注领域
 
@@ -37,6 +37,10 @@
 ## 参与贡献的开源项目
 
 [SRS](https://github.com/ossrs/srs) · [SRS-SIP](https://github.com/ossrs/srs-sip) · [ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit) · [pymkui](https://github.com/ZLMediaKit/pymkui) · [Monibuca GB28181 插件](https://github.com/Monibuca/plugin-gb28181) · [LiveKit](https://github.com/livekit/livekit) · [mpegts.js](https://github.com/xqq/mpegts.js) · [sipgo](https://github.com/emiago/sipgo) · [SRS 文档](https://github.com/ossrs/srs-docs)
+
+## 技术分享
+
+
 
 ## GitHub 概览
 
